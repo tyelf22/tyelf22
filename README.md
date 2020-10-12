@@ -20,15 +20,15 @@ Welcome to my Github page! I am Tyson and I am currently finishing my Web and Ap
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=tyelf22&show_icons=true&hide_border=true" />
 
-<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/html5.svg"></code>
-<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/css-5.svg></code>
-<code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"></code>
+<code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/html5.svg"></code>
+<code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>
+<code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"></code>
 <br />
-<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/vuetify.svg"></code>
-<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"></code>
+<code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/vuetify.svg"></code>
+<code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"></code>
 <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/react.svg"></code>
 <br />
-<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/php-1.svg"></code>
-<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/node-js-logo.svg"></code>
-<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
+<code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/php-1.svg"></code>
+<code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/node-js-logo.svg"></code>
+<code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
 </p>
