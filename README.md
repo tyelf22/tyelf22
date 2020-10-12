@@ -20,15 +20,15 @@ Welcome to my Github page! I am Tyson and I am currently finishing my Web and Ap
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=tyelf22&show_icons=true&hide_border=true" />
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/html5.svg"></code>
+<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/css3.svg></code>
+<code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/vuetify.svg"></code>
+<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"></code>
+<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/react.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/php-1.svg"></code>
+<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/node-js-logo.svg"></code>
+<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
 </p>
