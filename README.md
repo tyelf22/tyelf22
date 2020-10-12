@@ -21,7 +21,7 @@ Welcome to my Github page! I am Tyson and I am currently finishing my Web and Ap
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=tyelf22&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/html5.svg"></code>
-<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/css3.svg></code>
+<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/css-5.svg></code>
 <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"></code>
 <br />
 <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/vuetify.svg"></code>
