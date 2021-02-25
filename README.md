@@ -11,7 +11,7 @@ Welcome to my Github page! I am Tyson and I am currently finishing my Web and Ap
 
 
 #### 🌱 Things I am currently working on: 
-- Finishing my degree
+- Cryptocurrency
 - Learning more about c# and asp.net 
 - Artificial Intelligence and Data Mining 🚀 *coming soon*
 
