@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tysonelfors)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tyelf22@hotmail.com)
 
-Welcome to my Github page! I am Tyson and I am currently finishing my Web and App Development degree at Utah Valley University!  
+Welcome to my Github page! I am Tyson and I just finished my Web and App Development degree at Utah Valley University and am working full time as a developer.
 
 <img align="right" alt="img" src="https://avatars3.githubusercontent.com/u/42258610?s=460&u=e976a48a2e1d1985b80b1737ce1db105a088d130&v=4" width="50%" height="auto" />
 
