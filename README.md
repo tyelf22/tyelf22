@@ -26,9 +26,9 @@ Welcome to my Github page! I am Tyson and I am currently finishing my Web and Ap
 <br />
 <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/vuetify.svg"></code>
 <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"></code>
-<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/react.svg"></code>
+<code><img width="10%" src="https://worldvectorlogo.com/logo/react-2"></code>
 <br />
 <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/php-1.svg"></code>
-<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/node-js-logo.svg"></code>
+<code><img width="10%" src="https://worldvectorlogo.com/logo/nodejs-icon"></code>
 <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
 </p>
